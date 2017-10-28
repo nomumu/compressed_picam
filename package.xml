@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package>
+  <name>compressed_picam</name>
+  <version>0.0.1</version>
+  <description>The compressed_picam package</description>
+  <maintainer email="nomumu-github@koso2-dan.ddo.jp">nomumu</maintainer>
+  <license>Apache 2.0</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>libv4l-dev</buildtool_depend>
+  <export>
+  </export>
+</package>
